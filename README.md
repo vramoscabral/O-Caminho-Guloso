@@ -27,5 +27,28 @@ A matriz gerada no programa com os dados do arquivo passará pela função onde 
 
 Print do arquivo "input.data" mostrando as duas primeiras matrizes e o tamanho delas.
 
+![image2](https://user-images.githubusercontent.com/127407951/227637904-309f4e58-fcaa-41ae-87eb-8536ae818fdf.jpg)
+
+Print do terminal com a leitura das duas matrizes e o caminho percorrido nelas.
+
+![image3](https://user-images.githubusercontent.com/127407951/227637988-f04bfacd-08f6-4074-a786-1825109c86de.jpg)
+
+Print do terminal com o final do programa, mostrando as somas dos caminhos percorridos nas matrizes.
+
+## Compilação e Execução
+
+Esse código possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
+
+
+| Comando                |  Função                                                                                           |                     
+| -----------------------| ------------------------------------------------------------------------------------------------- |
+|  `make clean`          | Apaga a última compilação realizada contida na pasta build                                        |
+|  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
+|  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
+
+
+# Contato
+
+✉️ <i>vramoscabral2020@gmail.com</i>
 
 

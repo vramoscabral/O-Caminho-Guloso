@@ -23,7 +23,7 @@ A matriz gerada no programa com os dados do arquivo passará pela função onde 
 
 ## Exemplos da execução
 
-![Captura de tela 2023-03-24 172626](https://user-images.githubusercontent.com/127407951/227637188-0f6d10bd-8767-4a90-8b21-e265540f9871.png)
+![image1](https://user-images.githubusercontent.com/127407951/227637761-cb7bfd60-0250-4a37-870f-7c934e8da097.jpg)
 
 Print do arquivo "input.data" mostrando as duas primeiras matrizes e o tamanho delas.
 

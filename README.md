@@ -23,15 +23,18 @@ A matriz gerada no programa com os dados do arquivo passará pela função onde 
 
 ## Exemplos da execução
 
-![image1](https://user-images.githubusercontent.com/127407951/227637761-cb7bfd60-0250-4a37-870f-7c934e8da097.jpg)
+![image1](https://user-images.githubusercontent.com/127407951/227640068-807c981f-cea3-42e7-833f-9bb4f24664d7.jpg)
+
 
 Print do arquivo "input.data" mostrando as duas primeiras matrizes e o tamanho delas.
 
-![image2](https://user-images.githubusercontent.com/127407951/227637904-309f4e58-fcaa-41ae-87eb-8536ae818fdf.jpg)
+![image2](https://user-images.githubusercontent.com/127407951/227640329-74c8c542-a1cb-4497-8a60-389d2b30dd7e.jpg)
+
 
 Print do terminal com a leitura das duas matrizes e o caminho percorrido nelas.
 
-![image3](https://user-images.githubusercontent.com/127407951/227637988-f04bfacd-08f6-4074-a786-1825109c86de.jpg)
+![image3](https://user-images.githubusercontent.com/127407951/227640517-9cdaff96-429f-4e11-87f3-17936196c383.jpg)
+
 
 Print do terminal com o final do programa, mostrando as somas dos caminhos percorridos nas matrizes.
 
